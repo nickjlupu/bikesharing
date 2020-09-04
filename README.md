@@ -4,7 +4,7 @@
 Tableau Desktop
 Tableau Public
 data:  201908-citibike-tripdata.csv
-    August 2019 data obtained from [citibike system data page](https://www.citibikenyc.com/system-data)
+    August 2019 data obtained from [citibike system data page](https://www.citibikenyc.com/system-data)<br>
 [https://www.census.gov/quickfacts/desmoinescityiowa](https://www.census.gov/quickfacts/desmoinescityiowa)
 
 ## Analysis
